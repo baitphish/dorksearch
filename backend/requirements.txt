@@ -1,0 +1,7 @@
+
+Flask==2.0.3
+Flask-SQLAlchemy==2.5.1
+google-api-python-client==2.29.0
+tensorflow==2.7.0
+transformers==4.15.0
+psycopg2==2.9.2
